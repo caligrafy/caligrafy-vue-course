@@ -1,5 +1,5 @@
 # PHP meets Vue JS
-![Caligrafy](https://caligrafy.com/public/images/resources/caligrafy_vue_text.png)
+![Caligrafy](https://github.com/DoryAzar/caligrafy/blob/master/public/images/resources/caligrafy-vue2.png)
 
 ## Welcome to the course
 
